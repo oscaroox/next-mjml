@@ -18,6 +18,7 @@
   },
   "keywords": [
     "next.js",
+    "nextjs",
     "mjml",
     "email",
     "templates",
@@ -27,8 +28,15 @@
     "open-source",
     "MIT"
   ],
-  "author": "",
+  "author": "oscar",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oscaroox/next-mjml.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oscaroox/next-mjml/issues"
+  },
   "devDependencies": {
     "@babel/core": "^7.22.9",
     "@babel/preset-env": "^7.22.9",
