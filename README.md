@@ -91,7 +91,7 @@ The `mjmlOptions` object allows you to customize the MJML compilation process ac
 
 This package was inspired by the need to seamlessly integrate MJML files into Next.js projects, allowing developers to work with responsive email templates more efficiently.
 
-If you encounter any issues or have suggestions for improvements, feel free to [open an issue](https://github.com/yourusername/next-mjml/issues) or [submit a pull request](https://github.com/yourusername/next-mjml/pulls) on the GitHub repository.
+If you encounter any issues or have suggestions for improvements, feel free to [open an issue](https://github.com/oscaroox/next-mjml/issues) or [submit a pull request](https://github.com/oscaroox/next-mjml/pulls) on the GitHub repository.
 
 ## License
 
