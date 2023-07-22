@@ -39,10 +39,6 @@
   "dependencies": {
     "loader-utils": "^3.2.1"
   },
-  "peerDependencies": {
-    "mjml": "^4",
-    "next": "^13"
-  },
   "tsup": {
     "entry": [
       "src/index.ts",
@@ -63,5 +59,9 @@
         "*"
       ]
     }
+  },
+  "peerDependencies": {
+    "mjml": "^4",
+    "next": "^13"
   }
 }
