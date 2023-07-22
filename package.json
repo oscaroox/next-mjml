@@ -16,9 +16,19 @@
     "test": "jest",
     "build": "rimraf dist && tsup"
   },
-  "keywords": [],
+  "keywords": [
+    "next.js",
+    "mjml",
+    "email",
+    "templates",
+    "plugin",
+    "parsing",
+    "next.config.js",
+    "open-source",
+    "MIT"
+  ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.22.9",
     "@babel/preset-env": "^7.22.9",
